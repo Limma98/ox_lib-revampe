@@ -7,6 +7,7 @@ A reskin of [ox_lib](https://github.com/overextended/ox_lib) with a cyberpunk lo
 and a menu that lets **every player set up their own HUD**.
 
 ![The /oxcolour editor](./.github/images/editor.png)
+<img width="1913" height="1075" alt="Screenshot 2026-07-17 135457" src="https://github.com/user-attachments/assets/0abcbcbb-c4dd-4a4f-84e4-45bc2447e5a2" />
 
 </div>
 
@@ -38,7 +39,8 @@ Press **ENTER** to save, **ESC** to cancel..
 
 <div align="center">
 
-![The radial menu](./.github/images/radial.png)
+![The radial menu](./.github/images/radial.png)<img width="731" height="632" alt="Screenshot 2026-07-17 133722" src="https://github.com/user-attachments/assets/32940ac9-b952-4e5f-a427-88a21ce03503" />
+
 
 </div>
 
